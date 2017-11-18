@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "276598341920",
+    "firebase_url": "https://kastorskatakomben.firebaseio.com",
+    "project_id": "kastorskatakomben",
+    "storage_bucket": "kastorskatakomben.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276598341920:android:9594e73b3565a47a",
+        "android_client_info": {
+          "package_name": "com.Tulderon.KastorsKatakomben"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276598341920-nmcj5rtkmg78oibnji4gfjt8t0ghdibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLcgxyBJT3UaPucJJq3pmFjx9Le1azeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276598341920:android:b695564a9261e3ba",
+        "android_client_info": {
+          "package_name": "kastorskatakomben.tulderon.pi.kastorskatakombenpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276598341920-cboufnon6po98j54gqqsauim2r4h8l94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kastorskatakomben.tulderon.pi.kastorskatakombenpi",
+            "certificate_hash": "d07f7a7b4c390e2dd3cab744cf76748759a81a50"
+          }
+        },
+        {
+          "client_id": "276598341920-nmcj5rtkmg78oibnji4gfjt8t0ghdibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLcgxyBJT3UaPucJJq3pmFjx9Le1azeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276598341920-nmcj5rtkmg78oibnji4gfjt8t0ghdibj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
